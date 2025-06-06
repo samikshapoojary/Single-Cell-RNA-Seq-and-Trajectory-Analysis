@@ -10,13 +10,13 @@ This repository contains a Jupyter notebook implementing a complete single-cell 
 
 ### Usage
 
-* Open `single_cell_analysis.ipynb` in Jupyter Notebook or JupyterLab.
+* Open `sc_rna_analysis.ipynb` in Jupyter Notebook or JupyterLab.
 * Follow the step-by-step code and comments for analysis and interpretation.
 * Ensure required Python packages are installed (Scanpy, harmonypy, matplotlib, etc.).
 
 ### Data
 
-The notebook expects raw count matrices in directories named `WT1`, `Infected1`, and `Infected2` under a local `/data` folder or equivalent.
+The notebook expects raw count matrices in directories named `WT1`, `Infected1`, and `Infected2` under a local `/data` folder or equivalent. Make changes in path if necessary
 
 ---
 
